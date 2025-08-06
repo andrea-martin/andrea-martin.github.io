@@ -22,7 +22,7 @@ repository               : "andrea-martin.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "AM.jpeg"
   name             : "Andrea Martin"
   pronouns         : # example: "she/her"  
   bio              : "Digital Futures Postdoctoral Fellow"
