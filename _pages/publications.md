@@ -25,7 +25,7 @@ author_profile: true
 ## Conference Papers
 
 1. R. Cescon, **A. Martin**, and G. Ferrari-Trecate, [“Data-driven distributionally robust control based on Sinkhorn ambiguity sets,"](https://arxiv.org/abs/2503.20703) _IEEE Conference on Decision and Control (CDC)_, 2025.
-2. L. Furieri, S. Shenoy, D. Saccani, **A. Martin**, and G. F. Trecate, [“MAD: A magnitude and direction policy parametrization for stability constrained reinforcement learning,"](https://arxiv.org/abs/2504.02565) _IEEE Conference on Decision and Control (CDC)_, 2025.
+2. L. Furieri, S. Shenoy, D. Saccani, **A. Martin**, and G. Ferrari-Trecate, [“MAD: A magnitude and direction policy parametrization for stability constrained reinforcement learning,"](https://arxiv.org/abs/2504.02565) _IEEE Conference on Decision and Control (CDC)_, 2025.
 3. D. Martinelli, **A. Martin**, G. Ferrari-Trecate, and L. Furieri, [“Closing the gap to quadratic invariance: a regret minimization approach to optimal distributed control,”](https://ieeexplore.ieee.org/document/10591017) _European Control Conference (ECC)_, pp. 756-761, 2024.
 4. **A. Martin**, L. Furieri, F. Dörfler, J. Lygeros, and G. Ferrari-Trecate, [“Follow the clairvoyant: An imitation learning approach to optimal control,”](https://www.sciencedirect.com/science/article/pii/S2405896323017500) _IFAC-PapersOnLine_, vol. 56, no. 2, pp. 2589–2594, 2023.
 5. **A. Martin**, L. Furieri, F. Dörfler, J. Lygeros, and G. Ferrari-Trecate, ["Safe control with minimal regret,”](https://proceedings.mlr.press/v168/martin22a.html) _Learning for Dynamics and Control_, vol. 168, pp. 726-738, 2022.
