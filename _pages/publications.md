@@ -14,7 +14,7 @@ author_profile: true
 
 ## Journal Papers
 
-1. J.-S. Brouillon\*, **A. Martin**\*, J. Lygeros, F. Dörfler, and G. Ferrari-Trecate, [“Distributionally robust infinite-horizon control: From a pool of samples to the design of dependable controllers,”](https://ieeexplore.ieee.org/document/10964201/) _IEEE Transactions on Automatic Control_, 2025.
+1. J.-S. Brouillon\*, **A. Martin**\*, J. Lygeros, F. Dörfler, and G. Ferrari-Trecate, [“Distributionally robust infinite-horizon control: From a pool of samples to the design of dependable controllers,”](https://ieeexplore.ieee.org/document/10964201/) _IEEE Transactions on Automatic Control_, vol. 70, no. 10, pp. 6465-6480, 2025.
 2. **A. Martin**, L. Furieri, F. Dörfler, J. Lygeros, and G. Ferrari-Trecate, ["On the guarantees of minimizing regret in receding horizon,"](https://ieeexplore.ieee.org/document/10684161) _IEEE Transactions on Automatic Control_, vol. 70, no. 3, pp. 1547-1562, 2025.
 3. **A. Martin**, L. Furieri, F. Dörfler, J. Lygeros, and G. Ferrari-Trecate, [“Regret optimal control for uncertain stochastic systems,”](https://www.sciencedirect.com/science/article/pii/S0947358024001110) _European Journal of Control_, vol. 80, p. 101051, 2024.
 4. **A. Martin** and L. Furieri, [“Learning to optimize with convergence guarantees using nonlinear system theory,”](https://ieeexplore.ieee.org/document/10540597) _IEEE Control Systems Letters_, vol. 8, pp. 1355–1360, 2024.
