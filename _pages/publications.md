@@ -7,8 +7,9 @@ author_profile: true
 
 ## Preprints
 
-1. R. Cescon, **A. Martin**, and G. Ferrari-Trecate, ["On the global optimality of linear policies for Sinkhorn distributionally robust linear quadratic control,"](https://arxiv.org/abs/2509.00956) arXiv:2509.00956, 2025.
-2. **A. Martin**, I. R. Manchester, and L. Furieri, ["Learning to optimize with guarantees: a complete characterization of linearly convergent algorithms,"](https://arxiv.org/abs/2508.00775) arXiv:2508.00775, 2025.
+1. **A. Martin** and G. Belgioioso, ["Learning to accelerate Krasnosel'skii-Mann fixed-point iterations with guarantees,"](https://arxiv.org/abs/2601.07665) arXiv:2601.07665, 2026.
+2. R. Cescon, **A. Martin**, and G. Ferrari-Trecate, ["On the global optimality of linear policies for Sinkhorn distributionally robust linear quadratic control,"](https://arxiv.org/abs/2509.00956) arXiv:2509.00956, 2025.
+3. **A. Martin**, I. R. Manchester, and L. Furieri, ["Learning to optimize with guarantees: a complete characterization of linearly convergent algorithms,"](https://arxiv.org/abs/2508.00775) arXiv:2508.00775, 2025.
 
 ---
 
